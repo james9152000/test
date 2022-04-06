@@ -7,5 +7,5 @@ tasks:
 
 # List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
 ports:
-  - port: 3306
+  - port: 53644
     onOpen: open-preview
